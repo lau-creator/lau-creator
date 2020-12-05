@@ -70,8 +70,12 @@ footer{
 h1 {
     padding: 20px;
     margin: 30px;
+    text-align: center;
 }
 
+p {
+    text-align: center;
+}
 
 
 .lilasinfo {
